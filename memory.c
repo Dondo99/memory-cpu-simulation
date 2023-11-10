@@ -1,3 +1,5 @@
+//PROJECT OWNED AND DEVELOPED BY LUCA DONADELLO
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
