@@ -1,5 +1,3 @@
-// Luca Donadello - lxd210013
-
 #define _POSIX_SOURCE // kill warning
 #include <stdio.h>
 #include <stdlib.h>
