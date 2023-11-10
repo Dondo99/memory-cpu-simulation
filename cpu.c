@@ -1,3 +1,5 @@
+//PROJECT OWNED AND DEVELOPED BY LUCA DONADELLO
+
 #define _POSIX_SOURCE // kill warning
 #include <stdio.h>
 #include <stdlib.h>
